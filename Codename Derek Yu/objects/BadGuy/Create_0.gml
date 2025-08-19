@@ -1,1 +1,0 @@
-global.death=0
