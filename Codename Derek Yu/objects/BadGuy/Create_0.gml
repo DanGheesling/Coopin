@@ -1,0 +1,1 @@
+global.death=0
