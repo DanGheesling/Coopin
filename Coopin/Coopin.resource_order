@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"BadGuy","order":7,"path":"objects/BadGuy/BadGuy.yy",},
+    {"name":"Block_1","order":6,"path":"objects/Block_1/Block_1.yy",},
+    {"name":"Block","order":1,"path":"objects/Block/Block.yy",},
+    {"name":"Chicka","order":3,"path":"objects/Chicka/Chicka.yy",},
+    {"name":"RetryButton","order":8,"path":"objects/RetryButton/RetryButton.yy",},
+    {"name":"YouLose","order":1,"path":"rooms/YouLose/YouLose.yy",},
+    {"name":"YouWin","order":2,"path":"rooms/YouWin/YouWin.yy",},
+    {"name":"back1","order":6,"path":"sprites/back1/back1.yy",},
+    {"name":"backend1","order":10,"path":"sprites/backend1/backend1.yy",},
+    {"name":"badguy","order":9,"path":"sprites/badguy/badguy.yy",},
+    {"name":"Glue","order":11,"path":"sprites/Glue/Glue.yy",},
+    {"name":"main_1","order":8,"path":"sprites/main_1/main_1.yy",},
+    {"name":"main","order":1,"path":"sprites/main/main.yy",},
+    {"name":"pala_1","order":7,"path":"sprites/pala_1/pala_1.yy",},
+    {"name":"pala","order":2,"path":"sprites/pala/pala.yy",},
+    {"name":"retry","order":12,"path":"sprites/retry/retry.yy",},
+    {"name":"texture1","order":3,"path":"sprites/texture1/texture1.yy",},
+    {"name":"texture2","order":4,"path":"sprites/texture2/texture2.yy",},
+  ],
+}
